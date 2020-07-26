@@ -1,0 +1,9 @@
+created folder
+used nano to create pull file 
+save file
+commit changes
+tryied to push
+sucess ... output
+git commit syntax: git commit -m "commit changes"
+git push syntax: git push aswini master
+git pull syntax: git pull aswini master
