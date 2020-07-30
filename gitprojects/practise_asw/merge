@@ -1,0 +1,9 @@
+steps to follow
+1.git branch: shows the branches
+2.git checkout branch name
+3.nano file
+4.git add & commit
+5.git status
+6.git log
+7.change to master to merge to master
+
