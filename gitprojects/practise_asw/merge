@@ -1,3 +1,6 @@
+a.merged master to feature
+b.modify & commit changes
+c
 steps to follow
 1.git branch: shows the branches
 2.git checkout branch name
