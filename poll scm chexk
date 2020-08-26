@@ -1,0 +1,1 @@
+poll scm builds the job only when changes are made in git hub
