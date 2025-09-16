@@ -2,3 +2,5 @@ Good day
 to all
 Wellcome
 How are you
+
+poll scm check
