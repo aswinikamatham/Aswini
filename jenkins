@@ -1,3 +1,5 @@
 echo "first try of jenkins"
 1=20
 print $1
+pwd
+echo "$pwd"
