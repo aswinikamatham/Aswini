@@ -3,3 +3,5 @@ echo "first try of jenkins"
 print $1
 pwd
 echo "$pwd"
+
+checking poll scm trigger
