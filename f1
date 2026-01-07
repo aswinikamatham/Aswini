@@ -3,14 +3,7 @@ F2
 F3
 M4
 M5
-Line 1: This is a test file
-Line 2: Merge conflict demonstration
-Line 3: Keep things simple
-Line 4: First version of this file
-Line 5: Adding more lines
-Line 6: To reach at least ten lines
-Line 7: Git conflict simulation
-Line 8: This is different one
-Line 9: Almost done
-Line 10: Last line of first version
-
+This is a test file
+Merge conflict demonstration
+Keep things simple
+First version of this file
